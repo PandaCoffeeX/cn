@@ -1,7 +1,7 @@
 ---
-layout:post
-title:脸书(facebook)启示录：招聘
-category:杂记
+layout: post
+title: 脸书(facebook)启示录:招聘
+category: 杂记
 ---
 
 
